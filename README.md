@@ -52,7 +52,7 @@
 ---
 
 ### 🐍 Contribution Graph
-![snake gif](https://github.com/junayetjun/junayetjun/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/junayetjun/junayetjun/blob/main/snake.svg)
 
 ---
 
