@@ -5,9 +5,9 @@
 ---
 
 ### 👨‍💻 About Me  
-💡 I’m passionate about crafting **modern, scalable, and user-friendly applications** — from elegant mobile UIs to powerful back-end systems.  
-🌱 Currently diving deeper into **Spring Boot**, **Flutter**, and **AI-powered app development**.  
-💬 Ask me about **Flutter**, **Angular**, **Spring Boot**, or **clean software architecture**.  
+💡 I’m passionate about building **modern, scalable, and user-centric applications** — from sleek front-end interfaces to powerful back-end systems.  
+🌱 Currently exploring **Spring Boot**, **Node.js**, and **AI-powered app development** to create smarter digital experiences.  
+💬 Ask me about **Flutter**, **Angular**, **Spring Boot**, **Node.js**, or **clean code architecture**.  
 ⚡ Fun fact: I believe that _“Simple is Powerful”_ — in design, code, and life.
 
 ---
@@ -23,11 +23,13 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
-#### ☕ Back-End Development  
+#### ⚙️ Back-End Development  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 #### 📱 Mobile Development  
@@ -37,7 +39,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-#### ⚙️ Tools & Platforms  
+#### 🧰 Tools, Platforms & IDEs  
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -82,5 +84,5 @@
 ---
 
 <p align="center">
-  ⭐️ <em>Thanks for visiting my profile! I’m always open to collaboration, learning, and building innovative projects together.</em> 🚀  
+  ⭐️ <em>Thanks for visiting my profile! Let’s collaborate, learn, and build something amazing together.</em> 🚀  
 </p>
