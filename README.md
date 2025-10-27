@@ -1,25 +1,40 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Junayet</span></h1>
-<h3 align="center">🚀 Flutter Developer | 💡 Creative Thinker | 📚 Lifelong Learner</h3>
+<h3 align="center">🚀 Full-Stack Developer | 💡 Creative Thinker | 📱 Mobile App Enthusiast | ☁️ Lifelong Learner</h3>
 
 ---
 
 ### 👨‍💻 About Me  
-💡 I’m passionate about building **beautiful, high-performance Flutter apps** that make a difference.  
-🌱 Currently exploring **Flutter**, **Firebase**, and **AI-powered app experiences**.  
-💬 Ask me about **Flutter**, **Dart**, **UI/UX design**, or **clean architecture**.  
-⚡ Fun fact: I believe that _“Simple is Powerful”_ — both in life and in code.
+💡 I’m passionate about crafting **modern, scalable, and user-friendly applications** — from elegant mobile UIs to powerful back-end systems.  
+🌱 Currently diving deeper into **Spring Boot**, **Flutter**, and **AI-powered app development**.  
+💬 Ask me about **Flutter**, **Angular**, **Spring Boot**, or **clean software architecture**.  
+⚡ Fun fact: I believe that _“Simple is Powerful”_ — in design, code, and life.
 
 ---
 
 ### 🛠️ Tech Stack  
 
-#### 💻 Languages & Frameworks  
+#### 💻 Front-End Development  
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+#### ☕ Back-End Development  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+#### 📱 Mobile Development  
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
 #### ⚙️ Tools & Platforms  
@@ -28,6 +43,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </p>
 
 ---
@@ -65,5 +82,5 @@
 ---
 
 <p align="center">
-  ⭐️ <em>Thanks for visiting my profile! I’m always open to collaboration, learning, and creating something impactful together.</em> 🚀  
+  ⭐️ <em>Thanks for visiting my profile! I’m always open to collaboration, learning, and building innovative projects together.</em> 🚀  
 </p>
