@@ -1,74 +1,59 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Hey%20there,%20I'm%20Istiaq!&fontSize=70&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<h3 align="center">🚀 Full-Stack Developer | 💡 Creative Thinker | 📱 Mobile App Enthusiast | ☁️ Lifelong Learner</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junayetjun&label=Profile%20Views&color=58a6ff&style=flat-square" alt="views" />
+# ⚡ Istiaq | Full-Stack Developer
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Building%20Smarter%20Apps-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-success?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=junayetjun&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-💡 I’m passionate about building **modern, scalable, and user-centric applications** — from sleek front-end interfaces to powerful back-end systems.  
-🌱 Currently exploring **Spring Boot**, **Node.js**, and **AI-powered app development** to create smarter digital experiences.  
-💬 Ask me about **Flutter**, **Angular**, **Spring Boot**, **Node.js**, or **clean code architecture**.  
-⚡ Fun fact: I believe that _“Simple is Powerful”_ — in design, code, and life.
+### 🚀 The Mission
+> *"Simple is Powerful."* I build **scalable, user-centric applications** using modern stacks. Currently bridging the gap between robust Back-End systems and fluid Mobile/Web interfaces.
+
+- 🌱 **Currently Mastering:** Spring Boot Microservices & AI Integration.
+- 💬 **Ask Me About:** Flutter, Angular, or Clean Code Architecture.
+- 📧 **Reach Me:** [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Core Stack
 
-<div align="center">
-
-| **Category** | **Technologies** |
+| Area | Technologies |
 | :--- | :--- |
-| **Front-End** | ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Back-End** | ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white) |
-| **Mobile** | ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Tools/Cloud** | ![](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) |
-
-</div>
+| **Front-End** | `Angular` • `JavaScript` • `HTML5/CSS3` • `Bootstrap` |
+| **Back-End** | `Spring Boot` • `Node.js` • `Express.js` • `Java` • `JSP` |
+| **Mobile** | `Flutter` • `Dart` • `Android (Java)` |
+| **DevOps/Tools** | `Git` • `Firebase` • `IntelliJ` • `VS Code` |
 
 ---
 
-### 📊 GitHub Analytics  
+### 📈 Activity & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junayetjun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayetjun&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junayetjun&show_icons=true&theme=transparent&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayetjun&layout=compact&theme=transparent&title_color=58a6ff&text_color=adbac7&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junayetjun&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://github.com/junayetjun"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/junayetjun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junayetjun&theme=transparent&stroke=58a6ff&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff&hide_border=true" width="90%" />
 </p>
 
 ---
 
-### ✨ Quote I Live By  
-> "Strive for progress, not perfection."  
-> — *Unknown*
-
----
-
-### 🐍 Contribution Graph  
-<p align="center">
-  <img src="https://github.com/junayetjun/junayetjun/blob/main/snake.svg" alt="snake animation" />
+### 🤝 Connect & Collaborate
+<p align="left">
+  <a href="https://linkedin.com/in/junayetjun"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="25" /></a>
+  <a href="https://github.com/junayetjun"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white" height="25" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height="25" /></a>
 </p>
 
 ---
 
+### 🐍 Contribution Journey
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=0078D4&height=100&section=footer" />
+  <img src="https://github.com/junayetjun/junayetjun/blob/main/snake.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
